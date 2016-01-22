@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="accountType">
+        <item>Account Type</item>
+        <item>Personal</item>
+        <item>Business</item>
+    </string-array>
+    
+    
+    <string-array name="drawer">
+        <item>Home</item>
+        <item>Book a Ryde</item>
+        <item>Share a Ryde</item>
+        <item>Apply Promo Code</item>
+        <item>Payment</item>
+        <item>Ryde History</item>
+        <item>Profile</item>
+        <item>Help</item>
+        <item>Customer Support</item>
+    </string-array> 
+    
+    
+
+</resources>

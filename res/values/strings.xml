@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <string name="facebook_app_id">216196145391143</string> -->
+    <!-- <string name="facebook_app_id">216247438719347</string> -->
+    <string name="facebook_app_id">209304469411044</string>
+    <string name="app_name">Uraal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="mobNo">Mobile Number</string>
+    <string name="login_upercase">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="lgoinWith">Login with</string>
+    <string name="newUser">New user? Sign up</string>
+    <string name="fn">Full Name</string>
+    <!-- <string name="ln">Last Name</string> -->
+    <string name="cPass">Confirm Password</string>
+    <string name="acType">Account Type</string>
+    <string name="carType">Car Type</string>
+    <string name="email">Email</string>
+    <string name="choose_username">Choose Username</string>
+    <string name="choose_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="bysign_up">By signing up, you agree to Uraal Terms and condition of Use,Privacy Policy and Mobile Terms.</string>
+    <string name="signup_upercase">SIGN UP</string>
+    <string name="editProfile">EDIT PROFILE</string>
+    <string name="password">Password</string>
+    <string name="app_solut">AppSolut will send one time SS Message to verify your phone no carrier charges may apply. </string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="number_enterd_is_not_valid">Number entered is not valid Please enter a valid 10 digit number</string>
+    <string name="enter_again">Enter Again</string>
+    <string name="verify_no">Verify Your Phone Number</string>
+    <string name="one_time_sms">Uraal will send a one time SMS message to verify your phone number. Carrier SMS charges may apply.</string>
+    <string name="confirm_country_code">Please confirm your country code and enter your phone number.</string>
+    <string name="searchCountry">Search country</string>
+    <string name="ok">OK</string>
+    <string name="sending_sms">Sending SMS to your number</string>
+    <string name="sit_back">Please make sure you have your working SMS Plan\n\nSit back and relax we will inform you once it is verified</string>
+    <string name="save">Save</string>
+
+    <!-- Validation -->
+    <string name="val_ph_username_not_null">Please enter mobile number</string>
+    <string name="val_username_not_null">Please enter username</string>
+    <string name="val_username_valid">Please enter a valid username</string>
+    <string name="val_password_not_null">Please enter password</string>
+    <string name="val_password_minimum">Minimum length of password should be 5.</string>
+    <string name="val_password_not_match">Password not matched.</string>
+    <string name="val_first_name">Please enter first name.</string>
+    <string name="val_account_type">Please select account type.</string>
+    <string name="val_surname">Please enter surname name.</string>
+    <string name="val_email_not_null">Please enter an email address.</string>
+    <string name="val_email_valid">Please enter a valid email address.</string>
+    <string name="val_password_valid">Please enter a valid password.</string>
+    <string name="val_confirm_pass">Please enter confirm password.</string>
+    <string name="val_country">Please select country.</string>
+    <string name="val_gender">Please select gender.</string>
+    <string name="val_birthdate_not_null">Please enter birthdate.</string>
+    <string name="val_birthdate_valid">Please select correct birth date.</string>
+    <string name="val_pass_not_match">The passwords do not match. Please re-enter.</string>
+    <string name="val_channel_name">Please enter channel name.</string>
+    <string name="val_channel_des">Please enter channel description.</string>
+    <string name="val_title">Please enter title.</string>
+    <string name="val_post_des">Please enter description.</string>
+    <string name="val_comment">Please enter comment.</string>
+    <string name="val_feedback">Please enter feedback.</string>
+    <string name="val_post_app">Please add application link.</string>
+    <string name="forget_password_dialog">Forgot Password ?</string>
+    <string name="request_pass">Enter your email address for request a reset password.</string>
+    <string name="cancel">Cancel</string>
+    <string name="request">Request</string>
+    <string name="signUp">SignUp</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+
+    <!-- Push notification value -->
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+
+    <!-- Menu Actions -->
+    <string name="actionEditProfile">Edit Profile</string>
+    <string name="actionSettings">Settings</string>
+    <string name="km_away">KM Away</string>
+
+    <!-- UI -->
+    <string name="setPickup">SET PICKUP</string>
+    <string name="requestLift">REQUEST LIFT</string>
+    <!-- Hints -->
+    <string name="hint_address_one">Address</string>
+    <string name="hint_enter_address">Enter start address</string>
+
+</resources>

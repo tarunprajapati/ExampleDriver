@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="warning_net_not_avail">Please start your internet connection.</string>
+    <string name="loading">Loading please wait...</string>
+    <string name="warning">Warning!</string>
+    <string name="weight">WEIGHT</string>
+    <string name="warning_sure_selected_files">Are you sure? Do you want to delete all selected files?</string>
+    <string name="internet_not_available">Internet is not available.</string>
+    <string name="start_internet">Network is currently not available.\nPlease try again later.</string>
+    <string name="awesome">Awesome!</string>
+    <string name="thanks">Thank you!</string>
+    <string name="invalidEmail">Invalid Email Address.</string>
+    <string name="wrongPass">Password not matched.</string>
+    <string name="fillAll">Please Fill All Mandatory(*) Fields.</string>
+    <string name="alert_fav">Are you sure you want to delete this favorite item.</string>
+   <!--  <string name="noSortIdMsg">Network is currently not available. Please try again later.</string> -->
+
+</resources>

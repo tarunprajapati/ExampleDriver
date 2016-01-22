@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cropping string -->
+    <string name="chooseImg">Choose image source!</string>
+    <string name="saving_image">Saving... :)</string>
+    <string name="retake">Retake</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="yes">Yes</string>
+    <string name="preparing_card">Preparing card</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+    <string name="img_title">Please enter image title</string>
+
+</resources>
